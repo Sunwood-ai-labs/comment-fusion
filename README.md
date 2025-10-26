@@ -1,8 +1,21 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <h1>Comment Fusion (投コメがったい)</h1>
+  <p>
+    <a href="https://react.dev/">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+    </a>
+    <a href="https://vitejs.dev/">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+    </a>
+    <a href="https://tailwindcss.com/">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" />
+    </a>
+  </p>
 </div>
-
-# Comment Fusion (投コメがったい)
 
 Comment Fusion は、複数のコメント JSON を時間順にマージし、整形された 1 つのファイルにまとめてくれる React + Vite 製のシンプルなウェブアプリです。大量の投コメを扱う配信者さんや編集担当さんが、手作業では大変なコメント統合作業を効率良く進められるようにすることを目指しています。
 
